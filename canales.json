@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "TV Perú",
+    "categoria": "Nacional",
+    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/tvperu.png",
+    "url": ""
+  },
+  {
+    "id": 2,
+    "nombre": "TV Perú Noticias",
+    "categoria": "Noticias",
+    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/tvperunoticias.png",
+    "url": ""
+  },
+  {
+    "id": 3,
+    "nombre": "Congreso TV",
+    "categoria": "Noticias",
+    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/congresotv.png",
+    "url": ""
+  },
+  {
+    "id": 4,
+    "nombre": "Latina",
+    "categoria": "Entretenimiento",
+    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/latina.png",
+    "url": ""
+  },
+  {
+    "id": 5,
+    "nombre": "América Televisión",
+    "categoria": "Entretenimiento",
+    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/america.png",
+    "url": ""
+  },
+  {
+    "id": 6,
+    "nombre": "Panamericana TV",
+    "categoria": "Nacional",
+    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/panamericana.png",
+    "url": ""
+  },
+  {
+    "id": 7,
+    "nombre": "ATV",
+    "categoria": "Entretenimiento",
+    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/atv.png",
+    "url": ""
+  },
+  {
+    "id": 8,
+    "nombre": "DW Español",
+    "categoria": "Internacional",
+    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/dw.png",
+    "url": ""
+  },
+  {
+    "id": 9,
+    "nombre": "France 24 Español",
+    "categoria": "Internacional",
+    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/france24.png",
+    "url": ""
+  },
+  {
+    "id": 10,
+    "nombre": "NASA TV",
+    "categoria": "Ciencia",
+    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/nasa.png",
+    "url": ""
+  }
+]
