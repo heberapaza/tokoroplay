@@ -16,7 +16,7 @@
   {
     "id": 3,
     "nombre": "Bethel TV",
-    "categoria": "Noticias",
+    "categoria": "CRISTIANO",
     "imagen": "https://i.imgur.com/zCVh765.png",
     "url": "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8"
   },
@@ -36,37 +36,10 @@
   },
   {
     "id": 6,
-    "nombre": "Panamericana TV",
-    "categoria": "Nacional",
-    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/panamericana.png",
-    "url": ""
-  },
-  {
-    "id": 7,
-    "nombre": "ATV",
-    "categoria": "Entretenimiento",
-    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/atv.png",
-    "url": ""
-  },
-  {
-    "id": 8,
-    "nombre": "DW Español",
-    "categoria": "Internacional",
-    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/dw.png",
-    "url": ""
-  },
-  {
-    "id": 9,
-    "nombre": "France 24 Español",
-    "categoria": "Internacional",
-    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/france24.png",
-    "url": ""
-  },
-  {
-    "id": 10,
-    "nombre": "NASA TV",
-    "categoria": "Ciencia",
-    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/nasa.png",
-    "url": ""
+    "nombre": "ITV Deportes",
+    "categoria": "DEPORTES",
+    "imagen": "https://iili.io/J1kV1Bn.png",
+    "url": "https://thm-it-roku.otteravision.com/thm/it/it.m3u8"
   }
+
 ]
