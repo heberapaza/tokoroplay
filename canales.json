@@ -8,31 +8,31 @@
   },
   {
     "id": 2,
-    "nombre": "TV Perú Noticias",
+    "nombre": "ATV (Peru)",
     "categoria": "Noticias",
-    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/tvperunoticias.png",
-    "url": ""
+    "imagen": "https://i.imgur.com/eUzYZfg.png",
+    "url": "http://190.93.224.42/ATV/index.m3u8"
   },
   {
     "id": 3,
-    "nombre": "ATV+",
+    "nombre": "Bethel TV",
     "categoria": "Noticias",
-    "imagen": "https://i.imgur.com/fY9256H.png",
-    "url": "http://45.171.108.253:8888/ATV/index.m3u8"
+    "imagen": "https://i.imgur.com/zCVh765.png",
+    "url": "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8"
   },
   {
     "id": 4,
-    "nombre": "Latina",
+    "nombre": "Charapa TV",
     "categoria": "Entretenimiento",
-    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/latina.png",
-    "url": ""
+    "imagen": "https://i.imgur.com/tFRmMkf.png",
+    "url": "https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8"
   },
   {
     "id": 5,
-    "nombre": "América Televisión",
+    "nombre": "Global TV (Peru)",
     "categoria": "Entretenimiento",
-    "imagen": "https://TU-DOMINIO.com/tokoroplay/logos/america.png",
-    "url": ""
+    "imagen": "https://i.imgur.com/yuEou9C.png",
+    "url": "http://190.93.224.42/GLOBAL/index.m3u8"
   },
   {
     "id": 6,
