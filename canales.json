@@ -13494,5 +13494,404 @@
     "categoria": "General",
     "imagen": "https://i.imgur.com/XvktUBB.jpg",
     "url": "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
+  },
+  {
+    "id": 2431,
+    "nombre": "AE Mundo",
+    "categoria": "Entretenimiento",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+    "url": "http://45.70.168.162:12339/play/a00h/index.m3u8"
+  },
+  {
+    "id": 2432,
+    "nombre": "AXN",
+    "categoria": "Series",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+    "url": "http://45.70.168.162:12339/play/a00z/index.m3u8"
+  },
+  {
+    "id": 2433,
+    "nombre": "Animal Planet",
+    "categoria": "Documentales",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+    "url": "http://45.70.168.162:12339/play/a00b/index.m3u8"
+  },
+  {
+    "id": 2434,
+    "nombre": "Baby First",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/WxLHBwu.png",
+    "url": "http://45.70.168.162:12339/play/a01i/index.m3u8"
+  },
+  {
+    "id": 2435,
+    "nombre": "Canal Caracol",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/WbfdJbk.png",
+    "url": "http://45.70.168.162:12339/play/a00o/index.m3u8"
+  },
+  {
+    "id": 2436,
+    "nombre": "Canal Institucional",
+    "categoria": "Cultura",
+    "imagen": "https://i.imgur.com/CKnf3Ua.png",
+    "url": "http://45.70.168.162:12339/play/a00q/index.m3u8"
+  },
+  {
+    "id": 2437,
+    "nombre": "Canal Las Estrellas",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/g5ShxZ7.png",
+    "url": "http://45.70.168.162:12339/play/a01j/index.m3u8"
+  },
+  {
+    "id": 2438,
+    "nombre": "Canal RCN",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/5PhTaHp.png",
+    "url": "http://45.70.168.162:12339/play/a00p/index.m3u8"
+  },
+  {
+    "id": 2439,
+    "nombre": "Canal Uno",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/YFywPLC.png",
+    "url": "http://45.70.168.162:12339/play/a00n/index.m3u8"
+  },
+  {
+    "id": 2440,
+    "nombre": "Canal del Congreso",
+    "categoria": "Cultura",
+    "imagen": "https://i.imgur.com/3VnL8dp.png",
+    "url": "http://45.70.168.162:12339/play/a00r/index.m3u8"
+  },
+  {
+    "id": 2441,
+    "nombre": "Capital",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/zAYtbYi.png",
+    "url": "http://45.70.168.162:12339/play/a00v/index.m3u8"
+  },
+  {
+    "id": 2442,
+    "nombre": "Caracol",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/WbfdJbk.png",
+    "url": "http://45.70.168.162:12339/play/a02e/index.m3u8"
+  },
+  {
+    "id": 2443,
+    "nombre": "Cartoon Network",
+    "categoria": "Entretenimiento",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+    "url": "http://45.70.168.162:12339/play/a007/index.m3u8"
+  },
+  {
+    "id": 2444,
+    "nombre": "Cinecanal",
+    "categoria": "Películas",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+    "url": "http://45.70.168.162:12339/play/a004/index.m3u8"
+  },
+  {
+    "id": 2445,
+    "nombre": "Cinemax",
+    "categoria": "Películas",
+    "imagen": "https://i.imgur.com/cZWoJWD.png",
+    "url": "http://45.70.168.162:12339/play/a00x/index.m3u8"
+  },
+  {
+    "id": 2446,
+    "nombre": "City TV",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/h7K9EW9.png",
+    "url": "http://45.70.168.162:12339/play/a00u/index.m3u8"
+  },
+  {
+    "id": 2447,
+    "nombre": "Claro Sports",
+    "categoria": "Deportes",
+    "imagen": "https://i.imgur.com/n0kd17r.png",
+    "url": "http://45.70.168.162:12339/play/a029/index.m3u8"
+  },
+  {
+    "id": 2448,
+    "nombre": "Discovery Channel",
+    "categoria": "Documentales",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+    "url": "http://45.70.168.162:12339/play/a00a/index.m3u8"
+  },
+  {
+    "id": 2449,
+    "nombre": "Discovery Turbo",
+    "categoria": "Documentales",
+    "imagen": "https://i.imgur.com/1pQPxu3.png",
+    "url": "http://45.70.168.162:12339/play/a016/index.m3u8"
+  },
+  {
+    "id": 2450,
+    "nombre": "Disney Channel",
+    "categoria": "Entretenimiento",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+    "url": "http://45.70.168.162:12339/play/a009/index.m3u8"
+  },
+  {
+    "id": 2451,
+    "nombre": "E Entertainment",
+    "categoria": "Entretenimiento",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
+    "url": "http://45.70.168.162:12339/play/a00d/index.m3u8"
+  },
+  {
+    "id": 2452,
+    "nombre": "ESPN",
+    "categoria": "Deportes",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "url": "http://45.70.168.162:12339/play/a00g/index.m3u8"
+  },
+  {
+    "id": 2453,
+    "nombre": "ESPN 2",
+    "categoria": "Deportes",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",
+    "url": "http://45.70.168.162:12339/play/a00f/index.m3u8"
+  },
+  {
+    "id": 2454,
+    "nombre": "ESPN 3",
+    "categoria": "Deportes",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",
+    "url": "http://45.70.168.162:12339/play/a017/index.m3u8"
+  },
+  {
+    "id": 2455,
+    "nombre": "ESPN 5",
+    "categoria": "Deportes",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png",
+    "url": "http://45.70.168.162:12339/play/a00m/index.m3u8"
+  },
+  {
+    "id": 2456,
+    "nombre": "ESPN 5",
+    "categoria": "Deportes",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png",
+    "url": "http://45.70.168.162:12339/play/a00e/index.m3u8"
+  },
+  {
+    "id": 2457,
+    "nombre": "ESPN 6",
+    "categoria": "Deportes",
+    "imagen": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png",
+    "url": "http://45.70.168.162:12339/play/a00j/index.m3u8"
+  },
+  {
+    "id": 2458,
+    "nombre": "ESPN 7",
+    "categoria": "Deportes",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png",
+    "url": "http://45.70.168.162:12339/play/a00i/index.m3u8"
+  },
+  {
+    "id": 2459,
+    "nombre": "El Gourmet",
+    "categoria": "Entretenimiento",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b2/El_Gourmet_logo.png",
+    "url": "http://45.70.168.162:12339/play/a024/index.m3u8"
+  },
+  {
+    "id": 2460,
+    "nombre": "FX",
+    "categoria": "Series",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+    "url": "http://45.70.168.162:12339/play/a011/index.m3u8"
+  },
+  {
+    "id": 2461,
+    "nombre": "HBO",
+    "categoria": "Películas",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",
+    "url": "http://45.70.168.162:12339/play/a00w/index.m3u8"
+  },
+  {
+    "id": 2462,
+    "nombre": "History Channel",
+    "categoria": "Documentales",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+    "url": "http://45.70.168.162:12339/play/a003/index.m3u8"
+  },
+  {
+    "id": 2463,
+    "nombre": "Home and Health",
+    "categoria": "Entretenimiento",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png",
+    "url": "http://45.70.168.162:12339/play/a01q/index.m3u8"
+  },
+  {
+    "id": 2464,
+    "nombre": "ID",
+    "categoria": "Documentales",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+    "url": "http://45.70.168.162:12339/play/a00k/index.m3u8"
+  },
+  {
+    "id": 2465,
+    "nombre": "Kanal D Drama",
+    "categoria": "Series",
+    "imagen": "https://i.imgur.com/WIeZMKT.png",
+    "url": "http://45.70.168.162:12339/play/a02b/index.m3u8"
+  },
+  {
+    "id": 2466,
+    "nombre": "Love Nature",
+    "categoria": "Documentales",
+    "imagen": "https://i.imgur.com/7uNdcWB.png",
+    "url": "http://45.70.168.162:12339/play/a02c/index.m3u8"
+  },
+  {
+    "id": 2467,
+    "nombre": "MTV",
+    "categoria": "Entretenimiento",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+    "url": "http://45.70.168.162:12339/play/a01p/index.m3u8"
+  },
+  {
+    "id": 2468,
+    "nombre": "National Geographic",
+    "categoria": "Documentales",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+    "url": "http://45.70.168.162:12339/play/a002/index.m3u8"
+  },
+  {
+    "id": 2469,
+    "nombre": "Nick Jr",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/KT4tdQs.png",
+    "url": "http://45.70.168.162:12339/play/a015/index.m3u8"
+  },
+  {
+    "id": 2470,
+    "nombre": "Nickelodeon",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/E84jnP8.png",
+    "url": "http://45.70.168.162:12339/play/a001/index.m3u8"
+  },
+  {
+    "id": 2471,
+    "nombre": "Plim Plim TV",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/MYc8srh.png",
+    "url": "http://45.70.168.162:12339/play/a02a/index.m3u8"
+  },
+  {
+    "id": 2472,
+    "nombre": "STAR Channel",
+    "categoria": "Series",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+    "url": "http://45.70.168.162:12339/play/a006/index.m3u8"
+  },
+  {
+    "id": 2473,
+    "nombre": "Senal Colombia",
+    "categoria": "Cultura",
+    "imagen": "https://i.imgur.com/Y9x16vl.png",
+    "url": "http://45.70.168.162:12339/play/a00s/index.m3u8"
+  },
+  {
+    "id": 2474,
+    "nombre": "SonyY",
+    "categoria": "Series",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",
+    "url": "http://45.70.168.162:12339/play/a028/index.m3u8"
+  },
+  {
+    "id": 2475,
+    "nombre": "Space",
+    "categoria": "Películas",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",
+    "url": "http://45.70.168.162:12339/play/a010/index.m3u8"
+  },
+  {
+    "id": 2476,
+    "nombre": "TNT Novelas",
+    "categoria": "Series",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png",
+    "url": "http://45.70.168.162:12339/play/a00l/index.m3u8"
+  },
+  {
+    "id": 2477,
+    "nombre": "TNTt",
+    "categoria": "Películas",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",
+    "url": "http://45.70.168.162:12339/play/a01z/index.m3u8"
+  },
+  {
+    "id": 2478,
+    "nombre": "TRO",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/bdBduvj.png",
+    "url": "http://45.70.168.162:12339/play/a01n/index.m3u8"
+  },
+  {
+    "id": 2479,
+    "nombre": "Teleantioquia",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/6WMV2Az.png",
+    "url": "http://45.70.168.162:12339/play/a012/index.m3u8"
+  },
+  {
+    "id": 2480,
+    "nombre": "Telecaribe",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/E35cXHt.png",
+    "url": "http://45.70.168.162:12339/play/a018/index.m3u8"
+  },
+  {
+    "id": 2481,
+    "nombre": "Telemundo",
+    "categoria": "Entretenimiento",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8c_WMuQx6ScVKpDbeYrzyOno6600xj708zvieuW4rS2YIeK9namdorbVRCKw6WsUAM4&usqp=CAU",
+    "url": "http://45.70.168.162:12339/play/a01k/index.m3u8"
+  },
+  {
+    "id": 2482,
+    "nombre": "Telepacifico",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/39hy97J.png",
+    "url": "http://45.70.168.162:12339/play/a014/index.m3u8"
+  },
+  {
+    "id": 2483,
+    "nombre": "Trece",
+    "categoria": "Entretenimiento",
+    "imagen": "https://i.imgur.com/jsuXXIg.png",
+    "url": "http://45.70.168.162:12339/play/a019/index.m3u8"
+  },
+  {
+    "id": 2484,
+    "nombre": "Universal",
+    "categoria": "Series",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png",
+    "url": "http://45.70.168.162:12339/play/a005/index.m3u8"
+  },
+  {
+    "id": 2485,
+    "nombre": "Warner",
+    "categoria": "Series",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png",
+    "url": "http://45.70.168.162:12339/play/a00c/index.m3u8"
+  },
+  {
+    "id": 2486,
+    "nombre": "Win",
+    "categoria": "Deportes",
+    "imagen": "https://i.imgur.com/DuSSrHV.png",
+    "url": "http://45.70.168.162:12339/play/a013/index.m3u8"
+  },
+  {
+    "id": 2487,
+    "nombre": "Zoom",
+    "categoria": "Cultura",
+    "imagen": "https://i.imgur.com/euy5zp6.png",
+    "url": "http://45.70.168.162:12339/play/a01m/index.m3u8"
   }
 ]
